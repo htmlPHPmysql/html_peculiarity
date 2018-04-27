@@ -1,0 +1,20 @@
+// line break in html edittor add space in browser
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Using CSS</title>
+</head>
+<body>
+	<h1>
+		<span style="color: blue;">A</span><span style="color: red;">B</span>
+		<span style="color: green;">C</span>
+		
+		<span style="color: brown;">D</span>
+		<span style="color: orange;">E</span>
+		<span style="color: lime;">F</span>
+		<span style="color: yellow;">G</span>
+	</h1>
+</body>
+</html>
